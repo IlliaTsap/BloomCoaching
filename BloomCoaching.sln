@@ -9,9 +9,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pictures", "Pictures", "{EAD65A7B-6F3B-402E-8EDA-712BE3C70EE0}"
-	ProjectSection(SolutionItems) = preProject
-		Section1BackgroundImage.jpg = Section1BackgroundImage.jpg
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
