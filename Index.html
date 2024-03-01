@@ -1,11 +1,48 @@
 ﻿<!DOCTYPE html>
 
-<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<style>
+    body *{
+        font-family: 'Times New Roman', Times, serif;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+    }
+
+    button{
+        border: none;
+    }
+    .button-orange {
+        background-color: #F8C761;
+        color: black; 
+    }
+        .button-orange:hover {
+            background-color: #F8C761C0;
+        }
+</style>
+
+<html lang="en">
 <head>
-    <meta charset="utf-8" />
+    <meta charset="UTF-8">
+
     <title>Bloom Coaching</title>
 </head>
-<body>
-
+<body style="background-image: url(BodyImage.jpg); background-size: cover; background-repeat: no-repeat; background-color: gray">
+    <nav style="height: 10vh; display: flex; justify-content: space-between; align-items: center; padding: 0% 2%">
+        <a href="" style="font-family: Arial; font-size: 25px; font-weight: 700">BLOOM COACHING</a>
+        <span style="display: flex; justify-content: space-around; align-items: center; width: 25vw">
+            <a href="">About</a>
+            <a href="">Programs</a>
+            <a href="">Press</a>
+            <a href="">Contact</a>
+        </span>
+        <span style="display: flex; justify-content: space-around; align-items: center; width: 15vw">
+            <a href="">Login</a>
+            <button class="button-orange" style="width: 8vw; height: 7vh; font-size: 14px">Join Now</button>
+        </span>
+    </nav>
+    <div style="height: 90vh; display: flex; justify-content: center; align-items: center; flex-direction: column">
+        <h1 style="font-family: Arial; font-size: 100px; font-weight: 300; width: 80vw">Take control of your business</h1>
+        <button class="button-orange" style="width: 15vw; height: 10vh; font-size: 20px">Join now</button>
+    </div>
 </body>
 </html>
