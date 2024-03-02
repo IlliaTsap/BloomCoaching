@@ -8,9 +8,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Index.html = Index.html
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pictures", "Pictures", "{EAD65A7B-6F3B-402E-8EDA-712BE3C70EE0}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pictures", "Pictures", "{5AEF022E-C530-473A-8C83-D26A39E96F9E}"
 	ProjectSection(SolutionItems) = preProject
-		BodyImage.jpg = BodyImage.jpg
+		Pictures\Section1Image.jpg = Pictures\Section1Image.jpg
+		Pictures\Section2Image.jpeg = Pictures\Section2Image.jpeg
+		Pictures\Section3Image.jpg = Pictures\Section3Image.jpg
+		Pictures\Section5Image.jpg = Pictures\Section5Image.jpg
+		Pictures\Section6Image1.jpeg = Pictures\Section6Image1.jpeg
+		Pictures\Section6Image2.jpeg = Pictures\Section6Image2.jpeg
+		Pictures\Section6Image3.jpeg = Pictures\Section6Image3.jpeg
+		Pictures\Section7Image.jpg = Pictures\Section7Image.jpg
+		Pictures\Section8FacebookIcon.jpg = Pictures\Section8FacebookIcon.jpg
+		Pictures\Section8InstagramIcon.png = Pictures\Section8InstagramIcon.png
+		Pictures\Section8LinkedInIcon.png = Pictures\Section8LinkedInIcon.png
 	EndProjectSection
 EndProject
 Global
@@ -18,7 +28,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{EAD65A7B-6F3B-402E-8EDA-712BE3C70EE0} = {2B22CB42-43ED-473A-B60F-C4E3AA91D3FB}
+		{5AEF022E-C530-473A-8C83-D26A39E96F9E} = {2B22CB42-43ED-473A-B60F-C4E3AA91D3FB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {614747F2-8878-4C10-844F-6604D6260D0A}
